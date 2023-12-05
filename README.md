@@ -7,13 +7,19 @@ In the realm of computer networks, anomalies are unexpected patterns that deviat
 Types of Network Anomalies:
 
 Security Threats: Activities like hacking, malware, and unauthorized access.
+
 Performance Issues: Unusual traffic patterns, congestion, or bottlenecks.
+
 Faults or Failures: Hardware or software malfunctions, network device failures.
+
 Detection Methods:
 
 Statistical Analysis: Monitoring and analyzing network traffic for deviations from established norms.
+
 Machine Learning: Employing algorithms to learn normal network behavior and identify anomalies.
+
 Signature-Based Detection: Recognizing known patterns of attacks or abnormalities.
+
 Common Network Anomalies:
 
 Denial of Service (DoS) Attacks: Overloading a network to disrupt normal operations.
