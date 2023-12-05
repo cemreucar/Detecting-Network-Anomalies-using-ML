@@ -60,19 +60,25 @@ Models for Botnet Detection:
 K-Nearest Neighbors (KNN):
 
 Description: Classifies based on similarity, effective for analyzing network traffic patterns.
+
 Strengths: Easy implementation, suitable for binary and multiclass classification.
+
 Weaknesses: Computationally expensive for large datasets, sensitivity to irrelevant features.
 
 Decision Tree:
 
 Description: Tree-like model revealing significant features, interpretable.
+
 Strengths: Easily interpretable, handles numerical and categorical data.
+
 Weaknesses: Prone to overfitting, may not capture subtle relationships.
 
 Gaussian Naive Bayes (GNB):
 
 Description: Probabilistic classification, assumes Gaussian distribution.
+
 Strengths: Simple and efficient, performs well with many features.
+
 Weaknesses: Assumes feature independence, sensitive to outliers.
 
 Gaussian Anomaly Detection for Network Anomalies:
