@@ -23,23 +23,35 @@ Signature-Based Detection: Recognizing known patterns of attacks or abnormalitie
 Common Network Anomalies:
 
 Denial of Service (DoS) Attacks: Overloading a network to disrupt normal operations.
+
 Intrusions: Unauthorized attempts to access network resources.
+
 Malware Activity: Unusual patterns caused by the presence of malicious software.
+
 Data Exfiltration: Unauthorized transfer of sensitive data outside the network.
+
 Impact of Network Anomalies:
 
 Security Risks: Indicative of security breaches, putting sensitive data at risk.
+
 Downtime and Disruptions: Performance-related anomalies can lead to network slowdowns or outages.
+
 Financial Loss: Consequences of network anomalies may result in financial losses for organizations.
+
 Prevention and Mitigation:
 
 Firewalls and IDS: Implementing security measures to monitor and control network traffic.
+
 Regular Audits: Conducting audits to identify vulnerabilities.
+
 Incident Response Plans: Protocols in place to respond quickly to detected anomalies.
+
 Challenges in Anomaly Detection:
 
 False Positives and Negatives: Balancing the need to detect anomalies without generating excessive false alarms.
+
 Evolution of Threats: Adapting detection methods to address new and evolving network threats.
+
 Botnets and Their Role in Anomalies:
 A botnet, or robot network, is a collection of compromised computers controlled by a malicious entity. These networks contribute to anomalies by engaging in coordinated actions such as DDoS attacks, spam distribution, information theft, and malware propagation. Detecting and mitigating botnets involve continuous network monitoring, intrusion detection systems, and collaborative efforts for takedown.
 
