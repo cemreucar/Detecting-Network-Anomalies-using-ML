@@ -1,6 +1,6 @@
 # Detecting-Network-Anomalies-using-ML
 
-Network Anomalies and Botnet Detection: A Brief Report
+Network Anomalies and Botnet Detection
 
 In the realm of computer networks, anomalies are unexpected patterns that deviate from normal operations, signaling potential security threats, malfunctions, or irregular activities. Detecting and addressing network anomalies are vital for maintaining the integrity, availability, and security of networked systems.
 
